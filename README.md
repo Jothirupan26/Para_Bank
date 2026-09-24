@@ -62,4 +62,4 @@ Test data is read from Excel files located in `src/test/resources/`. Reports are
 
 ## Author
 
-Dhanush Kumar
+Jothirupan
