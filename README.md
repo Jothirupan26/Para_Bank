@@ -1,15 +1,25 @@
 <div align="center">
 
-# 🏦 Parabank Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b09b&height=220&section=header&text=Parabank%20Automation&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-Driven%20Selenium%20Test%20Automation%20Framework&descAlignY=58&descSize=18" width="100%"/>
 
-**A robust, data-driven Selenium test automation framework for the Parabank web application**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Selenium+%2B+TestNG+%2B+Maven;Page+Object+Model+Architecture;Excel-Driven+Test+Scenarios;No-Code+Test+Case+Additions" alt="Typing SVG" />
 
-[![Java](https://img.shields.io/badge/Java-8%2B-orange?style=flat-square&logo=openjdk)](https://www.oracle.com/java/)
-[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium)](https://www.selenium.dev/)
-[![TestNG](https://img.shields.io/badge/TestNG-Framework-orange?style=flat-square)](https://testng.org/)
-[![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat-square&logo=apachemaven)](https://maven.apache.org/)
-[![Apache POI](https://img.shields.io/badge/Data--Driven-Apache%20POI-blue?style=flat-square)](https://poi.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#license)
+<br/>
+
+[![Java](https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/)
+[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge)](https://testng.org/)
+[![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge&logo=apachemaven)](https://maven.apache.org/)
+[![Apache POI](https://img.shields.io/badge/Data--Driven-Apache%20POI-blue?style=for-the-badge)](https://poi.apache.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#license)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=parabank-automation&label=Repo%20Views&color=2c5364&style=flat-square)
+[![GitHub stars](https://img.shields.io/github/stars/Jothirupan/parabank-automation?style=social)](https://github.com/Jothirupan/parabank-automation/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jothirupan/parabank-automation?style=social)](https://github.com/Jothirupan/parabank-automation/network/members)
+
+<br/>
 
 [Overview](#-overview) •
 [Tech Stack](#-tech-stack) •
@@ -20,6 +30,8 @@
 [Contributing](#-contributing)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ---
 
@@ -166,8 +178,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Jothirupan**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Jothirupan-181717?style=for-the-badge&logo=github)](https://github.com/Jothirupan)
+
 <div align="center">
 
-⭐ If you find this project useful, consider giving it a star!
+### ⭐ If you find this project useful, consider giving it a star!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120">
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,50:2c5364,100:0f2027&height=150&section=footer&animation=fadeIn"/>
